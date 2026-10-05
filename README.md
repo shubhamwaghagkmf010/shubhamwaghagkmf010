@@ -2,8 +2,10 @@
 
 # Shubham Wagh
 
-### ⚡ System Administrator ➔ Jr. System Engineer
-**Linux & Windows Administration • Virtualization • SQL Migrations • Observability & Automation**
+<!-- Dynamic Animated Typing Header -->
+<a href="https://shubhamwaghagkmf010.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=System+Administrator+%E2%9E%94+Jr.+System+Engineer;Linux+%26+Windows+Server+Administration;Proxmox+VE+Virtualization+%26+LVM+Disks;SQL+Server+Linked+Server+Migrations;Infrastructure+Observability+%26+PowerShell+WinRM" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://shubhamwaghagkmf010.github.io/">
